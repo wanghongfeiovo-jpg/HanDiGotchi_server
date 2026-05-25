@@ -1,0 +1,9 @@
+/Users/ovo/Desktop/HanDiGotchi!/server/src/main/java/com/handigotchi/HanDiGotchiApplication.java
+/Users/ovo/Desktop/HanDiGotchi!/server/src/main/java/com/handigotchi/config/WebConfig.java
+/Users/ovo/Desktop/HanDiGotchi!/server/src/main/java/com/handigotchi/controller/GameController.java
+/Users/ovo/Desktop/HanDiGotchi!/server/src/main/java/com/handigotchi/game/GameConstants.java
+/Users/ovo/Desktop/HanDiGotchi!/server/src/main/java/com/handigotchi/game/GameService.java
+/Users/ovo/Desktop/HanDiGotchi!/server/src/main/java/com/handigotchi/game/GameState.java
+/Users/ovo/Desktop/HanDiGotchi!/server/src/main/java/com/handigotchi/model/CharacterSelectRequest.java
+/Users/ovo/Desktop/HanDiGotchi!/server/src/main/java/com/handigotchi/model/GameStatusDto.java
+/Users/ovo/Desktop/HanDiGotchi!/server/src/main/java/com/handigotchi/model/ItemRequest.java

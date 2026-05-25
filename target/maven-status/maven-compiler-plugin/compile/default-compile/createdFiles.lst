@@ -1,0 +1,12 @@
+com/handigotchi/config/WebConfig.class
+com/handigotchi/model/GameStatusDto.class
+com/handigotchi/game/GameService.class
+com/handigotchi/HanDiGotchiApplication.class
+com/handigotchi/game/GameConstants$MealDef.class
+com/handigotchi/game/GameConstants.class
+com/handigotchi/model/CharacterSelectRequest.class
+com/handigotchi/controller/GameController.class
+com/handigotchi/model/ItemRequest.class
+com/handigotchi/config/WebConfig$1.class
+com/handigotchi/game/GameConstants$SnackDef.class
+com/handigotchi/game/GameState.class
